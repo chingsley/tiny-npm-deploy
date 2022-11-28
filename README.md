@@ -1,2 +1,2 @@
 # tiny-npm-deploy
-Practice package deployment to npm
+Practise package deployment to npm
